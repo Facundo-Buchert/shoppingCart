@@ -1,0 +1,12 @@
+.cart-text{
+    display: none;
+}
+
+@media (max-width: 992px){
+    .cart-icon{
+        display: none;
+    }
+    .cart-text{
+        display: block;
+    }
+}
